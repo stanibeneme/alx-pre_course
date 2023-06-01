@@ -1,2 +1,2 @@
 My first readme
-jesus is lord
+Jesus is lord
